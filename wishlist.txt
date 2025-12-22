@@ -1,0 +1,19 @@
+This file contains a wishlist, for things that should exist with the ORA coin.
+It documents the nascent ORA ecosystem as well, but this could become its own file in the future.
+Any project attempting to realize these could be linked here. 
+
+Please contribute by cloning this repository, editing and making a pull request!
+
+- A slick mobile app for mining ORA - this has been requested a lot
+
+- Smart contract implementing a so called liquidity miner into other LPs than ORA/ALGO
+  Needs work on the smart contract and someone to host the UI
+
+- Orange nodes, described as "Decentralized Algorand Node Network with Gateway API, Real-time WebSocket, and Zero-Trust Security."
+  https://github.com/bitshiftmod/orange-node-network/tree/new-version
+
+- Orange links, that act as link shorteners
+  https://github.com/bitshiftmod/ora-link
+
+- Desktop mining app
+  https://github.com/bitshiftmod/orange-desktop-app
