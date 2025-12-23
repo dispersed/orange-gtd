@@ -14,6 +14,7 @@ Please contribute by cloning this repository, editing and making a pull request!
 
 - Orange links, that act as link shorteners
   https://github.com/bitshiftmod/ora-link
+  https://orangelink.xyz/
 
 - Desktop mining app
   https://github.com/bitshiftmod/orange-desktop-app
